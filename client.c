@@ -49,6 +49,7 @@ recv(sock, str, l,0);
         
 	printf("%s\n", str);
 	printf("%s\n", str);
+	printf("%s\n", str);
 
 	return 0;
 }
